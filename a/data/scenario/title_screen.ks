@@ -1,4 +1,4 @@
-[_tb_system_call storage=a/data/scenario/system/_title_screen.ks]
+[_tb_system_call storage=system/_title_screen.ks]
 
 
 ;==============================
